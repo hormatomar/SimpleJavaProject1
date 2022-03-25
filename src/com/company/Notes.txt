@@ -1,0 +1,19 @@
+Why we don't use local computers/laptops to host websites
+
+1) limited in system resources(RAM, Disk processor, internet bandwidth)
+2) we have to keep it up all the time it needs to be connected to power supply that's
+why we want to put everything on servers
+Software deployment life cycle.
+1) Idea
+2) mock design
+3) SRD(Software Requirement Document)
+4) software architects take SRD and develop SRS(all the details related to tools programming languages
+hardware requirements number of classes method names all is mentioned in this)
+5) Developers take SRS and start the code
+6) Tester they take SRD and start designing the test cases.
+Actual Software deployment life cycle starts from here developers will develop the codes on local computers and
+will push it to the dev servers once basic things work on dev server it is deployed to QA serverx
+staging
+production
+usually 3-5 persons are involved even in a very basic web app(Hello World).
+
